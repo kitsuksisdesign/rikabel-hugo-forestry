@@ -28,3 +28,5 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+pages:
+- site/content/posts/wow-that-was-quick-bit-of-config-to-do.md
