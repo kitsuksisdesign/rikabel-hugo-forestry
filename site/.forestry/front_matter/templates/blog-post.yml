@@ -1,0 +1,30 @@
+---
+label: 'Blog post '
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: 'Title of blog post '
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  description: 'Date of publication '
+- type: file
+  name: hero_image
+  label: Hero image
+  description: Large image at top of post
+  config:
+    maxSize: '5'
+- type: textarea
+  name: body_
+  label: 'Body '
+  description: Main text content
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
