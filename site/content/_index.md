@@ -2,6 +2,4 @@
 title: Homepage
 
 ---
-Hello world! I'm `content/_index.md`
-
-I'm rendered by `layouts/_default/list.html`
+Hello world! I'm a new website! Bear with me as I get built and designed...
