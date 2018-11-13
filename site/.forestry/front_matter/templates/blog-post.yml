@@ -28,3 +28,5 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+pages:
+- site/content/posts/design-systems-go.md
